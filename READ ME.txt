@@ -1,0 +1,8 @@
+Good example of:
+Matrixes
+Graph
+Dijkstra's algthm
+Map creation
+Reading from a file
+Header files
+Class Template use
